@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ta-clark
 - 👀 I’m interested in ... software engineering, weightlifting, hiking, tea
-- 🌱 I’m currently learning ... Computer Science and programming
+- 🌱 I’m currently learning ... Computer Science, programming
 - 💞️ I’m looking to collaborate on ... coding projects, open source projects
 - 📫 How to reach me ... LinkedIn
 
